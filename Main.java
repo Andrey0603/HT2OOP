@@ -1,4 +1,6 @@
     
+    //Малинин Андрей
+    
     public class Main {
         public static void main(String[] args) {
             Participant[] participants = {
